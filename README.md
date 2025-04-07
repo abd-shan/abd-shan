@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdulkader Shanbour
 
-### Frontend Web Developer | React.js Enthusiast | Problem Solver
+### Software Engineer | Frontend Web Developer | Problem Solver
 
 📍 **Based in:** Damascus, Syria  
 📧 **Email:** abd.alkader.shanbour@gmail.com  
