@@ -6,7 +6,7 @@
 📧 **Email:** abd.alkader.shanbour@gmail.com  
 📞 **Phone:** +963993505919  
 🔗 **LinkedIn:** [Abdulkader Al-Shanbour](https://www.linkedin.com/in/abdulkader-al-shanbour-553546263)  
-🌐 **portfolio:** [abdulkader.me](https://abd-shan.github.io/portfolio/)
+🌐 **portfolio:** [abdulkader.me](https://abdulkader_shanbour.me/)
 
 ---
 
