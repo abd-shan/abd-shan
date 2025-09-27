@@ -24,15 +24,7 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 
 ## 🛠️ Tech Toolbox  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  
-![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
 
 ---
 
