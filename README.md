@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Abdulkader Shanbour  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Abdulkader's%20Profile!&fontSize=28&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+---
 
 ### 🚀 Software Engineer | Frontend Web Developer | Lifelong Learner  
 
 📍 Damascus, Syria  
 📧 abd.alkader.shanbour@gmail.com  
 🔗 [Portfolio](https://abdulkader-shanbour.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/abdulkader-al-shanbour-553546263)  
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Frontend+Developer;Lifelong+Learner+%26+Problem+Solver;Let's+Build+Something+Amazing+Together+🚀)
 
 ---
 
