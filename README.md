@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Frontend+Developer;Lifelong+Learner+%26+Problem+Solver;Let's+Build+Something+Amazing+Together+🚀" alt="Typing SVG Animation" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Frontend+Developer;Lifelong+Learner+%26+Problem+Solver;Let's+Build+Something+Amazing+Together+🚀)
 
 ---
 
