@@ -32,15 +32,28 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 
 ## 📌 Featured Projects  
 
+### 🔹 Medily HR – Human Resource Management System  
+A comprehensive HRM web application designed to streamline **employee management, payroll, deductions, and qualifications**.  
+It integrates modern frontend practices with a clean UI/UX, ensuring both **performance** and **scalability**.  
+
+**Key Features:**  
+- Employee management with advanced search and pagination  
+- Salary calculation engine with category, job title, and qualification filters  
+- Real-time notifications & error handling  
+- Secure role-based access for administrators  
+- Responsive design for seamless use across devices  
+
+**Tech Stack:** React, Redux Toolkit, MUI DataGrid, Toast Notifications  
+
+👉 [🌐 Live Demo](https://medily-hr.netlify.app/)  
+
+---
+
 ### 🔹 Career Compass  
 A job portal with filters, skill tests, and company dashboards.  
 **Tech:** React, Node.js, Payment Integration  
 [🎥 Demo](https://drive.google.com/file/d/1DCGkzNJD5GAyi8bCkm1F88qMg9jcKKvQ/view)  
 
-### 🔹 Survivors Dashboard  
-Data management system for detainee records.  
-**Tech:** React, Redux  
-[🎥 Demo](https://drive.google.com/file/d/1Drw7SPaVGvYaEI04YFPR2kTqjnQrn7j1/view)  
 
 ### 🔹 Submarine Physics Simulator  
 University project applying real physics to submarine motion in 3D.  
