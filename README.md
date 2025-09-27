@@ -1,10 +1,16 @@
-# 👋 Hey there, I’m Abdulkader Shanbour  
+# 👋 Hi, I’m Abdulkader Shanbour  
 
 ### 🚀 Software Engineer | Frontend Web Developer | Lifelong Learner  
 
 📍 Damascus, Syria  
 📧 abd.alkader.shanbour@gmail.com  
 🔗 [Portfolio](https://abdulkader-shanbour.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/abdulkader-al-shanbour-553546263)  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Frontend+Developer;Lifelong+Learner+%26+Problem+Solver;Let's+Build+Something+Amazing+Together+🚀" alt="Typing SVG Animation" />
+</p>
 
 ---
 
@@ -18,7 +24,15 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 
 ## 🛠️ Tech Toolbox  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  
+![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
 
 ---
 
@@ -36,14 +50,14 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 A comprehensive HRM web application designed to streamline **employee management, payroll, deductions, and qualifications**.  
 It integrates modern frontend practices with a clean UI/UX, ensuring both **performance** and **scalability**.  
 
-**Key Features:**  
+**✨ Key Features:**  
 - Employee management with advanced search and pagination  
 - Salary calculation engine with category, job title, and qualification filters  
 - Real-time notifications & error handling  
 - Secure role-based access for administrators  
 - Responsive design for seamless use across devices  
 
-**Tech Stack:** React, Redux Toolkit, MUI DataGrid, Toast Notifications  
+**🛠 Tech Stack:** React, Redux Toolkit, MUI DataGrid, Toast Notifications  
 
 👉 [🌐 Live Demo](https://medily-hr.netlify.app/)  
 
@@ -54,6 +68,7 @@ A job portal with filters, skill tests, and company dashboards.
 **Tech:** React, Node.js, Payment Integration  
 [🎥 Demo](https://drive.google.com/file/d/1DCGkzNJD5GAyi8bCkm1F88qMg9jcKKvQ/view)  
 
+---
 
 ### 🔹 Submarine Physics Simulator  
 University project applying real physics to submarine motion in 3D.  
@@ -81,7 +96,6 @@ University project applying real physics to submarine motion in 3D.
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-shan&theme=tokyonight" alt="Profile Summary"/>
 </p>
-
 
 ---
 
