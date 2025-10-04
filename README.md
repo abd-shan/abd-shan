@@ -70,21 +70,21 @@ University project applying real physics to submarine motion in 3D.
 
 <p align="center">
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abd-shan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abd-shan&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=abd-shan&theme=tokyonight&border_radius=5" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=abd-shan&theme=transparent&border_radius=5" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-shan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-shan&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abd-shan&theme=tokyonight&row=1&column=5" alt="Trophies" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abd-shan&theme=flat&row=1&column=5" alt="Trophies" height="160"/>
 </p>
 
 <p align="center">
   <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-shan&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-shan&theme=transparent" alt="Profile Summary"/>
 </p>
 
 ---
