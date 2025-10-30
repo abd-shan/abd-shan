@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Abdulkader's%20Profile!&fontSize=28&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abd-shan&style=for-the-badge&color=0a66c2&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+
 ---
 
 ### 🚀 Software Engineer | Frontend Web Developer | Lifelong Learner  
@@ -20,9 +25,47 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🛠️ Tech Toolbox
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+### 💻 Programming Languages
+<!-- Large icons: use img tags with height for emphasis -->
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" height="60"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" height="60"/>
+</p>
+
+---
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" height="60"/>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" height="60"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=fff" height="60"/>
+  <img src="https://img.shields.io/badge/-ANTLR-E34F26?logo=antlr&logoColor=fff" height="60"/>
+</p>
+
+---
+
+### ⚙️ Tools, Systems & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff"  height="60"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" height="60"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff"  height="60"/>
+  <img src="https://img.shields.io/badge/-AI%20%26%20ML-8A2BE2?logo=tensorflow&logoColor=fff"  height="60"/>
+</p>
 
 ---
 
