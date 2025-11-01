@@ -70,10 +70,11 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced **TypeScript** patterns  
-- **Node.js** & scalable backend development  
-- **Data Visualization** with D3.js / Chart.js  
-- **Docker & DevOps basics**  
+- **3D Website** and optimizing application
+- **Software Engineering** Non-Fonctional Requirement
+- **Cyber Security**
+- **Data Science**     
+- **Server Administrator & DevOps basics**  
 
 ---
 
