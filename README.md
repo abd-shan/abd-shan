@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Software Engineer | Frontend Web Developer | Lifelong Learner  
+### 🚀 Software Engineer | Senior Frontend Developer | React & Next.js Expert | OSS Contributor  
 
 📍 Damascus, Syria  
 📧 abd.alkader.shanbour@gmail.com  
