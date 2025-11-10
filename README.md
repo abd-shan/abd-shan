@@ -64,7 +64,6 @@ From **job portals** to **HR dashboards**, I love solving complex problems with 
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff"  height="60"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" height="60"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff"  height="60"/>
-  <img src="https://img.shields.io/badge/-AI%20%26%20ML-8A2BE2?logo=tensorflow&logoColor=fff"  height="60"/>
 </p>
 
 ---
