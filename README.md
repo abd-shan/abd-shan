@@ -89,15 +89,20 @@ I bridge modern frontend development with strong computer science fundamentals t
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|-------|------------|-----------|------|
-| **Services ISP** | Corporate ISP website with multi-language support and full branding identity | Next.js, Redux, Tailwind | [Live](https://services.apps-demo.cloudtech-it.com/) |
-| **ISP Self-Care** | Client portal for managing subscriptions and data usage | Next.js, Redux, Tailwind | [Live](https://billing-system-cloudtech.vercel.app/en/data-usage) |
-| **HR Management System** | HR system with reporting, analytics, and payroll features | React.js, Node.js, SQL | [Live](https://medily-hr.netlify.app/) |
-| **Submarine Simulation** | 3D physics-based submarine movement simulation | Three.js, Physics | [Code](https://github.com/abd-shan/submarine-simulate) |
-| **Ludo AI** | Ludo game with ExpectiMinMax AI algorithm | Java, AI | [Code](https://github.com/IMDNOS/Ludo) |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Services ISP** | Dynamic ISP website with multi-language support (next-intl) and full branding identity. | Next.js, Redux, Tailwind | [🔗 Live](https://services.apps-demo.cloudtech-it.com/) |
+| **Management Dashboard** | Comprehensive admin dashboard for managing employees, services, and permissions. | Next.js, TypeScript, Redux | 🔒 Private |
+| **ISP Self-Care** | Client portal for subscription management and data usage tracking. | Next.js, Tailwind, Redux | [🔗 Live](https://billing-system-cloudtech.vercel.app/en/data-usage) |
+| **HR Management System** | Complete HR system with payroll, reporting, and employee analytics. | React.js, Node.js, SQL | [🔗 Live](https://medily-hr.netlify.app/) |
+| **Submarine Simulation** | 3D Simulation of submarine movement using real physics models. | Three.js, Physics Engine | [💻 Code](https://github.com/abd-shan/submarine-simulate) |
+| **Career Compass** | Job portal dashboard for managing listings and companies. | React.js, MySQL, Node.js | [🎥 Demo](https://drive.google.com/file/d/1DCGkzNJD5GAyi8bCkm1F88qMg9jcKKvQ/view) |
+| **Ludo AI** | Ludo game implementation with advanced AI (ExpectiMinMax algorithm). | Java, AI, Algorithms | [💻 Code](https://github.com/IMDNOS/Ludo) |
+
 
 ➡️ *More projects available on my GitHub repositories.*
 
