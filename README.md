@@ -1,111 +1,105 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Abdulkader's%20Profile!&fontSize=28&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abd-shan&style=flat-square&color=blue&label=Profile+Views"/>
+</p>
+<h3 align="center">
+Frontend Developer & Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abd-shan&style=for-the-badge&color=0a66c2&label=Profile+Views" alt="Profile Views"/>
+I build scalable, high-performance web applications by combining modern frontend technologies with solid software engineering principles.
 </p>
 
-
----
-
-### 🚀 Software Engineer |  React & Next.js Expert | OSS Contributor  
-
-📍 Damascus, Syria  
-📧 abd.alkader.shanbour@gmail.com  
-🔗 [Portfolio](https://abdulkader-shanbour.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/abdulkader-al-shanbour-553546263)  
-
----
-
-## 🌟 About Me  
-I’m passionate about building **scalable, interactive, and visually appealing web applications**.  
-From **job portals** to **HR dashboards**, I love solving complex problems with clean and efficient code.  
-
-💡 Motto: *“Every pixel matters, every line of code has a story.”*  
-
----
-
-## 🛠️ Tech Toolbox
-
-### 💻 Programming Languages
-<!-- Large icons: use img tags with height for emphasis -->
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" height="60"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" height="60"/>
+<p align="center">
+  <a href="https://github.com/abd-shan">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://gitlab.com/abdulkader_shanbour">
+    <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdulkader-shanbour-06320b343">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abd.alkader.shanbour@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://abd-shan.github.io/portfolio/assets/Abdulkader_sh.pdf">
+    <img src="https://img.shields.io/badge/CV-Resume-0FA4AF?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" height="60"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" height="60"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=fff" height="60"/>
-  <img src="https://img.shields.io/badge/-ANTLR-E34F26?logo=antlr&logoColor=fff" height="60"/>
-</p>
+## 👨‍💻 About Me
+
+Frontend Developer & Software Engineer based in **Damascus, Syria** 🇸🇾.
+
+I specialize in building **scalable, high-performance web applications** using **React.js and Next.js**, with a strong foundation in **Software Engineering, Algorithms, and Secure SDLC**.
+
+I focus on writing clean, maintainable code and designing systems that balance **elegant UI**, **performance**, and **robust architecture**.
+
+💡 **What sets me apart:**  
+I bridge modern frontend development with strong computer science fundamentals to deliver reliable, secure, and production-ready applications.
 
 ---
 
-### ⚙️ Tools, Systems & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff"  height="60"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" height="60"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff"  height="60"/>
-</p>
+## 🎯 What I Do Best
+
+- Building complex dashboards and enterprise-level web applications
+- Developing SEO-optimized and multilingual Next.js apps
+- Applying software engineering principles to frontend systems
+- Solving problems using data structures, algorithms, and AI techniques
+- Designing and implementing game AI logic and simulations
 
 ---
 
-## 🌱 Currently Learning  
-- **3D Website** and optimizing application
-- **Software Engineering** Non-Fonctional Requirement
-- **Cyber Security**
-- **Data Science**     
-- **Server Administrator & DevOps basics**  
+## 🛠️ Tech Stack & Skills
+
+| **Frontend** | **Backend & DB** | **Eng. & Security** | **Tools & Languages** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /> **React.js** | <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /> **Node.js** | <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /> **Algorithms** | <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /> **TypeScript** |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /> **Next.js** | <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /> **MySQL** | <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" /> **Design Patterns** | <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /> **JavaScript** |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /> **Tailwind CSS** | <img src="https://skillicons.dev/icons?i=mssql" width="40" height="40" alt="SQL Server" /> **SQL Server** | <img src="https://skillicons.dev/icons?i=security" width="40" height="40" alt="Security" /> **Secure SDLC** | <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /> **Git/GitHub** |
+| <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /> **Redux** | <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /> **NestJS** | <img src="https://skillicons.dev/icons?i=testinglibrary" width="40" height="40" alt="Testing" /> **Testing** | <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /> **Docker** |
 
 ---
 
-## 📌 Featured Projects  
+## 💼 Work Experience
 
-### 🔹 Medily HR – Human Resource Management System  
-A comprehensive HRM web application designed to streamline **employee management, payroll, deductions, and qualifications**.  
-It integrates modern frontend practices with a clean UI/UX, ensuring both **performance** and **scalability**.  
+### **Next.js Developer** — CloudTech Sky  
+📅 *2025 – Present*  
+🌐 https://cloudtech-it.com/
 
-**✨ Key Features:**  
-- Employee management with advanced search and pagination  
-- Salary calculation engine with category, job title, and qualification filters  
-- Real-time notifications & error handling  
-- Secure role-based access for administrators  
-- Responsive design for seamless use across devices  
-
-**🛠 Tech Stack:** React, Redux Toolkit, MUI DataGrid, Toast Notifications  
-
-👉 [🌐 Live Demo](https://medily-hr.netlify.app/)  
+- Developing high-performance and SEO-optimized web applications using **Next.js (SSR & CSR)**
+- Building advanced dashboards with modular architecture
+- Implementing App Directory structure and best practices
+- Collaborating on scalable, production-ready systems
 
 ---
 
-### 🔹 Career Compass  
-A job portal with filters, skill tests, and company dashboards.  
-**Tech:** React, Node.js, Payment Integration  
-[🎥 Demo](https://drive.google.com/file/d/1DCGkzNJD5GAyi8bCkm1F88qMg9jcKKvQ/view)  
+### **Software Engineering & Academic Projects**  
+📅 *2023 – Present*
+
+- Deep work in **Algorithms & Data Structures**
+- Understanding and applying **Operating Systems** fundamentals
+- Applying **Secure SDLC** principles and identifying common vulnerabilities
+- Developing AI-driven games and physics-based simulations
 
 ---
 
-### 🔹 Submarine Physics Simulator  
-University project applying real physics to submarine motion in 3D.  
-**Tech:** Three.js, Physics Engine  
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|-------|------------|-----------|------|
+| **Services ISP** | Corporate ISP website with multi-language support and full branding identity | Next.js, Redux, Tailwind | [Live](https://services.apps-demo.cloudtech-it.com/) |
+| **ISP Self-Care** | Client portal for managing subscriptions and data usage | Next.js, Redux, Tailwind | [Live](https://billing-system-cloudtech.vercel.app/en/data-usage) |
+| **HR Management System** | HR system with reporting, analytics, and payroll features | React.js, Node.js, SQL | [Live](https://medily-hr.netlify.app/) |
+| **Submarine Simulation** | 3D physics-based submarine movement simulation | Three.js, Physics | [Code](https://github.com/abd-shan/submarine-simulate) |
+| **Ludo AI** | Ludo game with ExpectiMinMax AI algorithm | Java, AI | [Code](https://github.com/IMDNOS/Ludo) |
+
+➡️ *More projects available on my GitHub repositories.*
 
 ---
 
@@ -119,25 +113,24 @@ University project applying real physics to submarine motion in 3D.
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-shan&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abd-shan&theme=flat&row=1&column=5" alt="Trophies" height="160"/>
-</p>
 
-<p align="center">
+
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-shan&theme=transparent" alt="Profile Summary"/>
-</p>
+
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-shan&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
+
+ </p>
+
 
 ---
 
-## 📫 Connect with Me  
-📧 **Email:** abd.alkader.shanbour@gmail.com  
-💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/abdulkader-al-shanbour-553546263)  
-🌐 **Portfolio:** [abdulkader-shanbour.netlify.app](https://abdulkader-shanbour.netlify.app/)  
+## 📫 Contact
 
----
+- 📧 Email: **abd.alkader.shanbour@gmail.com**
+- 📍 Location: **Damascus, Syria**
+- 💼 LinkedIn: [abdulkader-shanbour](https://www.linkedin.com/in/abdulkader-shanbour-06320b343)
 
-✨ *“Let’s build something amazing together!”* ✨
+
