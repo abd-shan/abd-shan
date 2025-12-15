@@ -97,7 +97,7 @@ I bridge modern frontend development with strong computer science fundamentals t
 | :--- | :--- | :--- | :---: |
 | **Services ISP** | Dynamic ISP website with multi-language support (next-intl) and full branding identity. | Next.js, Redux, Tailwind | [🔗 Live](https://services.apps-demo.cloudtech-it.com/) |
 | **Management Dashboard** | Comprehensive admin dashboard for managing employees, services, and permissions. | Next.js, TypeScript, Redux | 🔒 Private |
-| **ISP Self-Care** | Client portal for subscription management and data usage tracking. | Next.js, Tailwind, Redux | [🔗 Live](https://billing-system-cloudtech.vercel.app/en/data-usage) |
+| **ISP Self-Care** | Client portal for subscription management and data usage tracking. | Next.js, Tailwind, Redux | [🔗 Live](https://selfcare.mudar.cloudtech-it.com/) |
 | **HR Management System** | Complete HR system with payroll, reporting, and employee analytics. | React.js, Node.js, SQL | [🔗 Live](https://medily-hr.netlify.app/) |
 | **Submarine Simulation** | 3D Simulation of submarine movement using real physics models. | Three.js, Physics Engine | [💻 Code](https://github.com/abd-shan/submarine-simulate) |
 | **Career Compass** | Job portal dashboard for managing listings and companies. | React.js, MySQL, Node.js | [🎥 Demo](https://drive.google.com/file/d/1DCGkzNJD5GAyi8bCkm1F88qMg9jcKKvQ/view) |
