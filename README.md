@@ -95,7 +95,8 @@ I bridge modern frontend development with strong computer science fundamentals t
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Services ISP** | Dynamic ISP website with multi-language support (next-intl) and full branding identity. | Next.js, Redux, Tailwind | [🔗 Live](https://services.apps-demo.cloudtech-it.com/) |
+| **Easy Apply System** | A secure, dynamic portal for high-volume applications. Implemented a data-driven UI where all content is dynamically fetched and rendered based on admin configurations.
+No VPN , syrian ip only | Next.js, Redux, Tailwind , Framer Motion, next-intl| [🔗 Live](https://services.apps-demo.cloudtech-it.com/) |
 | **Management Dashboard** | Comprehensive admin dashboard for managing employees, services, and permissions. | Next.js, TypeScript, Redux | 🔒 Private |
 | **ISP Self-Care** | Client portal for subscription management and data usage tracking. | Next.js, Tailwind, Redux | [🔗 Live](https://selfcare.omni.cloudtech-it.com/) |
 | **HR Management System** | Complete HR system with payroll with more +900 employee, reporting, and employee analytics, Role base. | React.js, Node.js, SQL | [🔗demo Live](https://medily-hr.netlify.app/) |
