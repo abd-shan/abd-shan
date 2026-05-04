@@ -5,12 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=abd-shan&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 <h3 align="center">
-Frontend Developer & Software Engineer
+Frontend Software Engineer   
 </h3>
 
 <p align="center">
-I build scalable, high-performance web applications by combining modern frontend technologies with solid software engineering principles.
-</p>
+Specialized in Scalable Systems, Performance Optimization, and Domain-Driven UI</p>
 
 <p align="center">
   <a href="https://github.com/abd-shan">
