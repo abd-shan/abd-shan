@@ -33,7 +33,7 @@ Specialized in Scalable Systems, Performance Optimization, and Domain-Driven UI<
 
 ## 👨‍💻 About Me
 
-Frontend Developer & Software Engineer based in **Damascus, Syria** 🇸🇾.
+Frontend Developer & Software Engineer based in **Damascus, Syria** .
 
 I specialize in building **scalable, high-performance web applications** using **React.js and Next.js**, with a strong foundation in **Software Engineering, Algorithms, and Secure SDLC**.
 
