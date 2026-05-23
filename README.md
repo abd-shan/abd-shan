@@ -128,12 +128,14 @@ I bridge modern frontend development with strong computer science fundamentals t
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-shan&theme=transparent" alt="Profile Summary"/>
 
+
   
   <!-- Top Languages -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-shan&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
-
-
     <img src="https://camo.githubusercontent.com/5ec319281c7670f8e06d1436f11f9ea7ea0eb9ad83c561fba90a17db615f557c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d373768616d65643737267468656d653d64726163756c6126636f6c756d6e3d36266d617267696e2d773d3135266d617267696e2d683d3135" alt="Profile Summary"/>
+
+
 
  </p>
 
