@@ -5,11 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=abd-shan&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 <h3 align="center">
-Frontend Software Engineer   
+  Full-Stack Software Engineer & Team Leader   
 </h3>
 
 <p align="center">
-Specialized in Scalable Systems, Performance Optimization, and Domain-Driven UI</p>
+  Specialized in Scalable Architecture, Secure SDLC, and Sovereign System Integration
+</p>
 
 <p align="center">
   <a href="https://github.com/abd-shan">
@@ -33,28 +34,33 @@ Specialized in Scalable Systems, Performance Optimization, and Domain-Driven UI<
 
 ## 👨‍💻 About Me
 
-Frontend Developer & Software Engineer based in **Damascus, Syria** .
+Software Engineer & Technical Team Leader based in **Syria**. 
 
-I specialize in building **scalable, high-performance web applications** using **React.js and Next.js**, with a strong foundation in **Software Engineering, Algorithms, and Secure SDLC**.
+I specialize in building **secure, high-performance enterprise and government applications**. My expertise spans across the entire stack—from crafting scalable frontends with **React.js & Next.js** to architecting robust backends with **Nest.js**, and managing deployment infrastructures using **Linux, Nginx, and Docker**.
 
-I focus on writing clean, maintainable code and designing systems that balance **elegant UI**, **performance**, and **robust architecture**.
+I focus on enforcing clean code governance, implementing **Zero-Trust** security architectures, and integrating modern **AI capabilities** into sovereign digital environments.
 
-💡 **What sets me apart:**  
-I bridge modern frontend development with strong computer science fundamentals to deliver reliable, secure, and production-ready applications.
+💡 **What sets me apart:** I bridge the gap between complex backend logic, server infrastructure, and elegant UI design, ensuring systems are not only visually engaging but also highly secure, stable, and production-ready under limited resources.
 
 ---
 
 ## 🎯 What I Do Best
 
-- Building complex dashboards and enterprise-level web applications
-- Developing SEO-optimized and multilingual Next.js apps
-- Applying software engineering principles to frontend systems
-- Solving problems using data structures, algorithms, and AI techniques
-- Designing and implementing game AI logic and simulations
+- **Technical Leadership:** Governing complex SDLC workflows and mentoring engineering teams.
+- **Full-Stack Architecture:** Building End-to-End systems using Next.js, React, and Nest.js.
+- **Infrastructure & DevOps:** Managing VMs, configuring Nginx (Reverse Proxy/SSL), and optimizing server performance.
+- **Security & System Hardening:** Enforcing Branch Isolation, preventing code vulnerabilities (e.g., SQL Injection), and implementing Secure SDLC.
+- **AI Integration:** Developing independent AI assistants (Python, FastAPI) for task automation.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
+| **Frontend** | **Backend & DB** | **DevOps & Infrastructure** | **Tools & Architecture** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=nextjs,react" width="80" alt="Next React" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs" width="80" alt="Nest Node" /> | <img src="https://skillicons.dev/icons?i=linux,nginx" width="80" alt="Linux Nginx" /> | <img src="https://skillicons.dev/icons?i=ts,js" width="80" alt="TS JS" /> |
+| <img src="https://skillicons.dev/icons?i=tailwind,redux" width="80" alt="Tailwind Redux" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" width="80" alt="SQL DBs" /> | <img src="https://skillicons.dev/icons?i=docker,git" width="80" alt="Docker Git" /> | <img src="https://skillicons.dev/icons?i=python,fastapi" width="80" alt="Python FastAPI" /> |
+
 
 | **Frontend** | **Backend & DB** | **Eng. & Security** | **Tools & Languages** |
 | :--- | :--- | :--- | :--- |
@@ -67,16 +73,20 @@ I bridge modern frontend development with strong computer science fundamentals t
 
 ## 💼 Work Experience
 
-### **Next.js Developer** — CloudTech Sky  
-📅 *2025 – Present*  
-🌐 https://cloudtech-it.com/
+### **Programming Team Leader** — Directorate of Digital Transformation  
+📅 *May 2026 – Present* - Leading a cross-functional team (Frontend, Backend, Mobile, AI/Security interns).
+- Architecting and securing strategic government platforms (e.g., Water Management, HR Systems).
+- Establishing strict GitLab workflows (Branch Isolation, Merge Requests) to ensure zero-trust security.
+- Managing local server infrastructure, startup application processes, and reverse proxy configurations.
 
-- Developing high-performance and SEO-optimized web applications using **Next.js (SSR & CSR)**
-- Building advanced dashboards with modular architecture
-- Implementing App Directory structure and best practices
-- Collaborating on scalable, production-ready systems
+### ** Software Engineer** — CloudTech Sky  
+📅 *June 2025 – Present* 🌐 https://cloudtech-it.com/
+- Developing high-performance, SEO-optimized web applications and ISP portals using **Next.js** ,  **Nest.js**.
+- Building dynamic application engines and advanced dashboards with modular architecture.
+- Automating deployment workflows and maintaining production environment stability.
 
 ---
+
 
 ### **Software Engineering & Academic Projects**  
 📅 *2023 – Present*
@@ -94,6 +104,7 @@ I bridge modern frontend development with strong computer science fundamentals t
 
 | Project                                     | Description                                                                                                                                                                 | Tech Stack                                         |                                       Links                                       |
 | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :-------------------------------------------------------------------------------: |
+| **Government Reinstatement System** | A secure, enterprise platform designed to automate and streamline sensitive administrative and reinstatement workflows for public sector employees. Features robust Role-Based Access Control (RBAC), advanced data encryption, and asynchronous task queuing for secure document processing. | Nest.js, Next.js, TypeScript, PostgreSQL, Redis | 👀 Soon |
 | **Aoun Platform (Prototype)**               | Early-stage mental health support platform. Focused on scalable UI architecture and modular design for future feature expansion.                                            | Next.js, TypeScript, Tailwind                      |                   [🔗 Live](https://aoun-prototype.netlify.app/)                  |
 | **CloudTech IT Platform**                   | Full enterprise website with advanced management dashboard including RBAC (Role-Based Access Control), CMS, ticketing system, backup management, and application workflows. | Next.js, TypeScript, Tailwind, Redux               |                        [🔗 Live](https://cloudtech-it.com)                        |
 | **ISP Self-Care System**                    | Customer portal for ISP services including billing (charge panel), session tracking, transactions, and subscription management. Designed for real-world ISP operations.     | Next.js, TypeScript, Tailwind, Redux               |                                     🔒 Private                                    |
