@@ -67,7 +67,7 @@ Developed role-based HR dashboards for an on-premise government hospital of appr
 ### Al-Fateh Application System
 Built a configurable, multilingual application portal with forms, cards, and content managed through an administrative dashboard. Improved its performance score from **71% to 90%+**.
 
-**Stack:** Next.js. [View application](https://apply.alfateh.cloudtech-it.com:8443/) (access may require a Syrian IP or VPN).
+**Stack:** Next.js. [View application](https://apply.alfateh.cloudtech-it.com:8443/) (access is restricted to Syrian IP addresses).
 
 ### ISP Self-Care Portals
 Developed separate subscriber portals for GalaxyNet and OmniSmartStar covering service management, billing, usage, and recharging.
