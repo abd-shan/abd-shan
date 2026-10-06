@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=abd-shan&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 <h3 align="center">
-  Full-Stack Software Engineer & Team Leader   
+  Full-Stack Software Engineer & Engineering Team Lead   
 </h3>
 
 <p align="center">
-  Specialized in Scalable Architecture, Secure SDLC, and Sovereign System Integration
+  Building Government Systems, Reusable ISP Platforms, and Secure Web Products
 </p>
 
 <p align="center">
@@ -34,23 +34,21 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer & Technical Team Leader based in **Syria**. 
+Full-Stack Software Engineer and Engineering Team Lead based in **Syria**, with experience delivering **15+ live projects** across government, healthcare, and ISP operations.
 
-I specialize in building **secure, high-performance enterprise and government applications**. My expertise spans across the entire stack—from crafting scalable frontends with **React.js & Next.js** to architecting robust backends with **Nest.js**, and managing deployment infrastructures using **Linux, Nginx, and Docker**.
+I build products from system design and database modeling to secure APIs, React and Next.js interfaces, testing, and production deployment. My backend work includes **Spring Boot** and **NestJS**, supported by PostgreSQL, Redis, Docker, Linux, and Nginx.
 
-I focus on enforcing clean code governance, implementing **Zero-Trust** security architectures, and integrating modern **AI capabilities** into sovereign digital environments.
-
-💡 **What sets me apart:** I bridge the gap between complex backend logic, server infrastructure, and elegant UI design, ensuring systems are not only visually engaging but also highly secure, stable, and production-ready under limited resources.
+💡 **What sets me apart:** I combine hands-on engineering with team leadership. I have built reusable products for multiple customers, delivered government backends serving several applications, and guided cross-functional teams through architecture, code reviews, and deployment.
 
 ---
 
 ## 🎯 What I Do Best
 
-- **Technical Leadership:** Governing complex SDLC workflows and mentoring engineering teams.
-- **Full-Stack Architecture:** Building End-to-End systems using Next.js, React, and Nest.js.
-- **Infrastructure & DevOps:** Managing VMs, configuring Nginx (Reverse Proxy/SSL), and optimizing server performance.
-- **Security & System Hardening:** Enforcing Branch Isolation, preventing code vulnerabilities (e.g., SQL Injection), and implementing Secure SDLC.
-- **AI Integration:** Developing independent AI assistants (Python, FastAPI) for task automation.
+- **Technical Leadership:** Leading frontend, backend, mobile, and systems analysis contributors; guiding architecture, reviews, and delivery.
+- **End-to-End Product Development:** Taking products from requirements and data modeling through APIs, interfaces, testing, and deployment.
+- **Backend & Data Engineering:** Building Spring Boot and NestJS APIs with PostgreSQL, Redis, authentication, real-time updates, and database performance improvements.
+- **Reusable Platform Architecture:** Developing shared-codebase ISP products with isolated customer data, configuration, branding, and deployments.
+- **Production Delivery:** Working with Docker, Linux, Nginx, SSL, GitLab workflows, and production troubleshooting.
 
 ---
 
@@ -73,28 +71,28 @@ I focus on enforcing clean code governance, implementing **Zero-Trust** security
 
 ## 💼 Work Experience
 
-### **Programming Team Leader** — Directorate of Digital Transformation  
-📅 *May 2026 – Present* - Leading a cross-functional team (Frontend, Backend, Mobile, AI/Security interns).
-- Architecting and securing strategic government platforms (e.g., Water Management, HR Systems).
-- Establishing strict GitLab workflows (Branch Isolation, Merge Requests) to ensure zero-trust security.
-- Managing local server infrastructure, startup application processes, and reverse proxy configurations.
+### **Engineering Team Lead** — Directorate of Digital Transformation
+📅 *May 2026 – Present*
 
-### ** Software Engineer** — CloudTech Sky  
-📅 *June 2025 – Present* 🌐 https://cloudtech-it.com/
-- Developing high-performance, SEO-optimized web applications and ISP portals using **Next.js** ,  **Nest.js**.
-- Building dynamic application engines and advanced dashboards with modular architecture.
-- Automating deployment workflows and maintaining production environment stability.
+- Lead frontend, backend, mobile, and systems analysis contributors on government platforms.
+- Guide architecture, API security, implementation reviews, and delivery decisions.
+- Established GitLab branch protection and merge request practices; oversee production configuration, reverse proxies, SSL, and maintenance operations.
+
+### **Full-Stack Developer** — CloudTech Company
+📅 *June 2025 – 2026* 🌐 https://cloudtech-it.com/
+
+- Delivered web products from API and database design through frontend development, testing, Docker/Nginx deployment, and production support.
+- Built a reusable ISP website, complaints, and CMS platform for multiple providers, alongside a separate subscriber session monitoring system.
+- Developed the configurable Al-Fateh application portal and separate self-care portals for GalaxyNet and OmniSmartStar; improved Al-Fateh's performance score from 71% to 90%+.
 
 ---
 
 
-### **Software Engineering & Academic Projects**  
-📅 *2023 – Present*
+### **Frontend Developer** — Freelance & Product Work
+📅 *March 2023 – Present*
 
-- Deep work in **Algorithms & Data Structures**
-- Understanding and applying **Operating Systems** fundamentals
-- Applying **Secure SDLC** principles and identifying common vulnerabilities
-- Developing AI-driven games and physics-based simulations
+- Built React and Next.js dashboards for banking and management workflows.
+- Implemented complex state management, role-based views, and reusable UI architecture.
 
 ---
 
@@ -104,6 +102,9 @@ I focus on enforcing clean code governance, implementing **Zero-Trust** security
 
 | Project                                     | Description                                                                                                                                                                 | Tech Stack                                         |                                       Links                                       |
 | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :-------------------------------------------------------------------------------: |
+| **ISP Self-Service & Complaint Management Platform** | Built a reusable ISP website, complaint portal, and CMS using shared application code with isolated customer data, branding, configuration, and deployments. Implemented complaint tracking, escalation, reports, bilingual content, RBAC, and audit logging. Subscriber self-care portals are separate applications. | NestJS, React, TypeScript, PostgreSQL, Prisma, Redis, Docker, Nginx | [Al-Fateh](https://alfatehisp.sy/) · [GalaxyNet](https://galaxynet.sy/) · [ModarNet](https://modarnet.sy/) · [OmniSmartStar](https://omnismartstar.sy/) |
+| **ISP Subscriber Session Monitoring** | Built a standalone platform for monitoring current subscriber connections and searching historical sessions. Separated the read-only MariaDB session source from the authentication database and implemented advanced filtering, pagination, secure authentication, and automated tests. | NestJS, React, TypeScript, MariaDB, Prisma, TanStack Query | [🔗 Live](https://isp-info.cloudtech-it.com/) |
+| **Daraa Water Management Platform** | Built a government water-distribution backend serving citizen and operator mobile apps and an administrative dashboard. Developed 100+ REST endpoints, SSE and push notifications, and a transactional outbox; reduced a hierarchy read path from N+1 queries to four and wrote 138 tests. | Java 17, Spring Boot, PostgreSQL, Flyway, Testcontainers, Docker | 🔒 Private |
 | **Government Reinstatement System** | A secure, enterprise platform designed to automate and streamline sensitive administrative and reinstatement workflows for public sector employees. Features robust Role-Based Access Control (RBAC), advanced data encryption, and asynchronous task queuing for secure document processing. | Nest.js, React.js, TypeScript, PostgreSQL, Redis | Done ✅ |
 | **Aoun Platform (Prototype)**               | Early-stage mental health support platform. Focused on scalable UI architecture and modular design for future feature expansion.                                            | Next.js, TypeScript, Tailwind                      |                   [🔗 Live](https://aoun-prototype.netlify.app/)                  |
 | **CloudTech IT Platform**                   | Full enterprise website with advanced management dashboard including RBAC (Role-Based Access Control), CMS, ticketing system, backup management, and application workflows. | Next.js, TypeScript, Tailwind, Redux               |                        [🔗 Live](https://cloudtech-it.com)                        |
